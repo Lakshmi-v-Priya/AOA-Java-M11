@@ -1,10 +1,8 @@
 # EX 1A Print All Numbers
 
-## DATE: 17-04-2026
+### Developed By: Lakshmi Priya V
 
-### Developed By: Aaron H
-
-### Register Number: 212223040001
+### Register Number: 212223220049
 
 ## AIM:
 
