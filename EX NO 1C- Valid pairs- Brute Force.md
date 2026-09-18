@@ -1,5 +1,7 @@
 # EX 1C Valid Pairs using Brute Force Approach
 
+### Date : 28.07.2026
+
 ### Developed By: Lakshmi Priya V
 
 ### Register Number: 212223220049
