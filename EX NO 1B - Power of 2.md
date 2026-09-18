@@ -1,5 +1,7 @@
 # EX 1B – Factorial of a Number
 
+### Date : 28.07.2026
+
 ### Developed By: Lakshmi Priya V
 
 ### Register Number: 212223220049
